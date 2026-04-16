@@ -1,0 +1,6 @@
+openai
+gtts
+pygame
+sounddevice
+scipy
+python-dotenv
